@@ -1,0 +1,8 @@
+This morning after I started my PC, the error message keeps popping up, telling me that ‘Windows detected a hard disk problem’ and asking me to start the backup process. 
+It was quite confusing, and I don’t know how did this problem happen to my computer. 
+ I’m wondering what reasons can cause a hard disk problem and how can I fix this issue.
+Help me if you know how to fix hard disk problem on Windows PC. I’m using Windows 8.
+This problem has been bothering almost all Windows users for quite a long period.
+You can selectively copy and paste single files and documents one by one into another secure storage devices.
+Command will scan all protected system files and replace all corrupted files with a backup copy.
+After the process is finished, your hard disk would work properly again.

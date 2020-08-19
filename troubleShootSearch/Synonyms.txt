@@ -1,0 +1,8 @@
+PC:windows
+trouble: problem
+hard:difficult
+single:one
+reformat:format
+process:work
+error:corruption
+sure:secure
